@@ -8,6 +8,12 @@ Grâce à mon expertise, j'ai réussi à :
 - Positionner Disque dur externe parmi les premiers résultats de recherche sur des mots-clés très concurrentiels sur le marché francophone.
 <img alt="expert seo" src="https://www.ignorant-fertile.com/wp-content/uploads/2023/03/referencement-seo.png" height=300px >
 
+## Pourquoi choisir de travailler avec moi ?
+
+- Une approche personnalisée : Je prends le temps de comprendre votre entreprise et vos besoins spécifiques.
+- Des résultats concrets : J'ai aidé de nombreux clients à augmenter leur visibilité en ligne et leur chiffre d'affaires.
+- Une expertise complète : De la conception à la maintenance, je suis là pour vous accompagner à chaque étape.
+
 ## Mes réalisations
 - Site e-commerce : <a href="https://www.chevaliere-tendance.com/">Chevalière Tendance</a> (vente de bijoux en ligne)
 - Site e-learning + e-commerce : <a href="https://www.chevaliere-tendance.com/">Déclic Cuisine (cours de cuisine en ligne)</a>
