@@ -1,7 +1,7 @@
 <head><meta name="google-site-verification" content="piKV58mw_95vnorJE3N04C1IgvyIX9b7_iKxjBWVVKk" /></head>
 
 # Découvrez mes créations web : des sites qui boostent votre business
-Spécialisé en marketing digital et développement web, je conçois des sites web performants et sur mesure pour vous aider à atteindre vos objectifs.
+<p>Spécialisé en marketing digital et développement web, je conçois des sites web performants et sur mesure pour vous aider à atteindre vos objectifs.</p>
 <img alt="Pierre Bossetti" src="https://www.ignorant-fertile.com/wp-content/uploads/2022/10/Pierre_Bossetti-fond-blanc.png" height=300px >
 
 Grâce à mon expertise, j'ai réussi à :
